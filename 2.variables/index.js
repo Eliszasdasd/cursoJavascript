@@ -41,5 +41,7 @@
 console.log(nombre_de_pais)
 
  //constantes
- const numeroDni=123455
+ const numeroDni=12345
+ //que a diferencia de una variable
+ //la constante no se puede mutaar o reescribir el dato almacenado 
  console.log(numeroDni)
